@@ -39,7 +39,7 @@
 <p align='start'>
   
   ☀️ [Islamic Azkar](https://play.google.com/store/apps/details?id=com.codestation.ElAzkar)   —
-   Design an app on AdobeXD then Convert it to a real Android app using Kotlin to read data from an internal JSON file and renders it in Recycler view in 2 separate Fragment and use MVVM, following a single activity pattern recommended by google using navigation Components and View Binding to enhance the performance, I used Gitflow to build feature then merge it in the main branch.
+   Design an app on AdobeXD following Google Material Principles then an Android app using Kotlin to read the Azkar data from an internal JSON file applying MVVM Architecture Pattern and render it in 2 RecyclerView with 2 separate Fragment following a single activity pattern recommended by Google using navigation Components and View Binding to enhance the performance. I used Gitflow to build the feature and then merge it in the main branch.
     
     
 
