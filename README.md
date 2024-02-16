@@ -53,7 +53,26 @@ disabilities at the level of the Arab world.
 
   📺 [Trending TV Shows](https://play.google.com/store/apps/details?id=com.androidstation.trendingtvshows)   —   Based on TV Shows DB APIs using Java, MVVM, Retrofit2, and RXJava to get series & TV shows Asynchronously then display it in a Recycler view and friendly UI following Android Material Design principles and Paging 2 users can save their favorite list using Room Data Base.
 
+
+
+ 🎞️ [Trending Movies](https://github.com/Hassan-Elsayed-Ammer/Trending-Movies)  —   The user can see The Latest Trending Movies with Friendly Modern UI And See All the Most Important Details like Rating, year of production, And Stars of movies.
+
+
+ <br>
  
+ <h2 align="left"> 📝 Articals </h2>
+
+
+
+  ⚈ [How To Secure Android App](https://www.linkedin.com/pulse/%D9%83%D9%8A%D9%81-%D8%A3%D8%AD%D9%85%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A-android-security-hassan-el-sayed-ammer-pn7xf/)
+ 
+
+
+
+<br>
+
+  ⚈ [kotlin Features](https://www.linkedin.com/pulse/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%84%D8%BA%D8%A9%D9%83%D9%88%D8%AA%D9%84%D9%86-hassan-el-sayed-ammer/)
+
   </p>
   
   <br>
