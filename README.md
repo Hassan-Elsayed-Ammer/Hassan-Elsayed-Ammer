@@ -74,15 +74,13 @@ disabilities at the level of the Arab world.
 
 
   ⚈ [How To Secure Android App](https://www.linkedin.com/pulse/%D9%83%D9%8A%D9%81-%D8%A3%D8%AD%D9%85%D9%89-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A-android-security-hassan-el-sayed-ammer-pn7xf/)
+
  
-
-
-
-<br>
-
   ⚈ [kotlin Features](https://www.linkedin.com/pulse/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%84%D8%BA%D8%A9%D9%83%D9%88%D8%AA%D9%84%D9%86-hassan-el-sayed-ammer/)
 
   </p>
+
+ ⚈ [Load Media With Coil](https://www.linkedin.com/pulse/load-media-coil-hassan-el-sayed-ammer-ltohf/)
   
   <br>
   
