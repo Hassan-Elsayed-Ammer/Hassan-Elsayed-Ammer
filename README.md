@@ -2,7 +2,7 @@
 <h1 align="center"> 
  Hi There!  I'm Hassan El Sayed <img src="Hi.gif" width="40px" />  </h1> 
  <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=54BAD7&center=true&lines=Native+Android+Developer;Operating+Systems+Lover;Open+Source+Contributor;Technical+Content+Writer'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=54BAD7&center=true&lines=Native+Android+Software+Developer;Embedded+Android+Developer;Operating+Systems+Lover;IoT+Developer;Open+Source+Contributor;Technical+Content+Writer'/>
 </div>
 
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
