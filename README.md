@@ -67,6 +67,14 @@ disabilities at the level of the Arab world.
    The user can see The Latest Trending Movies with a Friendly Modern UI And See All the Most Important Details like Rating, year of production, And Stars of movies.
 
 
+   
+ 🩺 [Yaqeen - يقين](https://play.google.com/store/apps/details?id=com.cancer.yaqeen&hl=en)  
+     
+   As one of the mobile team, I designed an app to support cancer patients by providing medical, psychological, and volunteer assistance. It provides access to healthcare 
+   professionals for consultations, treatment plans, and support groups,and connects patients with volunteers to help with daily tasks and provide needed companionship 
+   throughout their journey, ensuring that no one faces cancer alone. 
+
+
  <br>
  
  <h2 align="left"> 📝 Articals </h2>
