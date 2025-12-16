@@ -2,7 +2,7 @@
 <h1 align="center"> 
  Hi There!  I'm Hassan El Sayed <img src="Hi.gif" width="40px" />  </h1> 
  <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=54BAD7&center=true&lines=Native+Android+Software+Developer;Embedded+Android+Developer;Operating+Systems+Lover;IoT+Developer;Open+Source+Contributor;Technical+Content+Writer'/>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=54BAD7&center=true&lines=Native+Mobile+Developer;Android;IOS;Java+Kotlin+Swift;SDK+Developer;GIS+Developer;Maps+Excepert;IoT+Developer;Operating+Systems+Lover;Open+Source+Contributor;Technical+Content+Writer'/>
 </div>
 
 <img align="center" alt="wallpaper" src="https://github.com/ezatpanah/ezatpanah/raw/main/android.gif"/>
@@ -18,13 +18,16 @@
   <a href='https://www.linkedin.com/in/--b39942250/' target='_blank'>
            <img src="https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3" />        
     </a>
-   
-   <a href='https://play.google.com/store/apps/developer?id=hassan+elsayed+mohamed' target='_blank'>
-           <img src="https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60" />        
-    </a>
-    <a href='https://stackoverflow.com/users/12326202/hassan-el-sayed-ammer' target='_blank'>
+
+   <a href='https://stackoverflow.com/users/12326202/hassan-el-sayed-ammer' target='_blank'>
            <img src="https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow" />        
     </a>
+<!--
+       <a href='https://play.google.com/store/apps/developer?id=hassan+elsayed+mohamed' target='_blank'>
+           <img src="https://img.shields.io/badge/-PlayStore-ffffff?style=flat&logo=googleplay&logoColor=27ae60" />        
+    </a>
+    -->
+  
 </p>
 
 
