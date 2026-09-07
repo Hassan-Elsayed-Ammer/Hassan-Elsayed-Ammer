@@ -41,14 +41,11 @@
 
 <p align='start'>
 
-   📹 [SignBook](https://play.google.com/store/apps/details?id=com.ar.signbook) 
+   🤖 I-Robot  - Confidential Enterprise Project
    
-Implement The main feature of the application - Video Chat Using SendBird Sdk - (Video Chat API) in favor of Small and Medium
-Enterprises Authority Omani, its customer service for people with disabilities, as it was specially designed to empower people with
-hearing disabilities. The application won the Mada-ALECSO award for the best mobile application for the benefit of persons with
-disabilities at the level of the Arab world.
+Led the architecture, technical design, and development of a native mobile application for monitoring and controlling an autonomous indoor robot, with a focus on the Android platform and real-time robotic systems. Implemented GIS-based 2D/3D mapping and spatial visualization of indoor environments, including building layouts, floor plans, robot positioning, navigation paths, and real-time spatial data. Worked with coordinate systems, spatial relationships, map overlays, and interactive visualization. Integrated real-time communication, live video streaming, and remote robot control using WebSockets, REST APIs, location services, and media frameworks, with a focus on scalable architecture, performance, and reliable interaction with robotic systems.
 
-
+<!--
 
   ☀️ [Islamic Azkar](https://play.google.com/store/apps/details?id=com.codestation.ElAzkar)
   
@@ -63,7 +60,7 @@ disabilities at the level of the Arab world.
    Based on TV Shows DB APIs using Java, MVVM, Retrofit2, and RXJava to get series & TV shows Asynchronously and then display them in a
    Recycler view and friendly UI following Android Material Design principles and Paging 2 users can save their favorite list using Room Data Base.
 
-
+-->
 
  🎞️ [Trending Movies](https://github.com/Hassan-Elsayed-Ammer/Trending-Movies)  
      
